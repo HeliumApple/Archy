@@ -42,7 +42,7 @@ export function appInit(i18next: ITranslationService) {
       cookieMinutes: 10080, // 7 days
       //cookieMinutes: 1,
     },
-    supportedLngs: ['en','fr','eo'],
+    supportedLngs: ['en','fr','eo','frog'],
     debug:false,
     returnEmptyString: false,
     fallbackLng: 'en',
